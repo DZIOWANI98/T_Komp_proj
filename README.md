@@ -14,6 +14,8 @@ oraz przycisk Testuj połączenie. Po jego naciśnięciu ma się wyświetlić in
 udało.
 
 
+## Info
+
 I use docker to setup the express database 
 
 RUN DOKCER INSTANTION: 
